@@ -1,0 +1,7 @@
+version=1.0
+sha256=4c697d6803a2a7f28cbbe5b7d07ace75f43bf63ef62ce5882fb7c0b894c488bd
+file=https://github.com/dkrbb/loader-updates/releases/download/v1/FM_Bot.exe
+size=57556992
+keep=
+blocked=
+sig=QTM41Be0BreZnpxzzjYUxsLQ95dRe1E6TwQ9EjI150H/dJhP+fr96/9lh4qUQdlAJH+mnYsGUVX329ZYCPYF8MAFyV0CutkCotToY3IE6aTxK/ovogKMMkNtgnswjDrXbZ392C2Hewq5PKfHlZUGRaShI94Sqowfiuyhn/631oqEQ5rR8q/QvV+jkuCnPPKxDE7QvGHNjzMmVmpWBCc4Efz8PG4wi/rlFHNxO4oreeLhYG+D5HRvf1AVApL1LJZkGjs7kGY8HSeZpzN4Wu2n5mDPuXOEDW4oOz9liT4V2QtVyT5+ibv9cRkHiv1Dz2nRIolN/OCHyYzLubr2xyAGEg==

@@ -1,0 +1,7 @@
+version=3.6
+sha256=b681e8945e6e5c45609b4ab08b6f274958a2980171f99fb62dd8431565382d44
+file=https://github.com/dkrbb/loader-updates/releases/download/v1/Autojoin.exe
+size=472576
+keep=
+blocked=
+sig=mcocNkVxlRSMZ+Yge1csrm+7QmiKcPwEDTfll6wdivXcB8OVA40xQfjDtjX+MR+dWFVggqJbdM8RiEoPo9Tt3MLTew9mN8NOI9nh/KUHQ2BaykixNq5j0LbPx/2pkEblDeblyuvnMqMXBowm0QZdv8XCx0Wyn4F+SojEPCZ3HYxkA1pKUAoxQv93OlwaHAkMS//cieJO6uOGKsY0Ni1H2Nyepb2V9b53n1sUwPXV2IRSnJmBrr5Lr9jJm2H5tsQuI/XMRw3UX/f/jfXU7b/yasICaU8GOeLU5Uq72/sTUKZ1iQHPfOxRhJPKExewt5Ljdk/e+lFDDlX8W5SUW03dgg==
