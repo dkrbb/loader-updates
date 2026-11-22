@@ -1,0 +1,7 @@
+version=1.0
+sha256=f48cab47f62714f1ba4ce62176cdafb1d7f5372884858bf24e0f9e36a35cf4a9
+file=https://github.com/dkrbb/loader-updates/releases/download/v1/Launcher.exe
+size=193536
+keep=
+blocked=
+sig=bfYQU34rZvZynLQuvkJRrISif6GypaX1nhpaE/5LbFfz/ozmNYUsg2uhpcIzmWNeXVDzAELeKvNgFOHvSMgxYfHF+RpZyBCWbaTYJQ1DrJdbqwebUzosTUd/mAGuN3hh01QHmXJxONXAXfMxyboDcN/gykHj48I8WtKR7vV4+awICq5deYFZOB5HT8k55kurEpCBXhjFLTlKBV87Q2EXDYHjWqqSpI4rXboZp7qnJNfaFo1mLV9aKHQmyK/o/Vk6/rj7IG17qOUwGD9Zk8hNiygX+pmq4lXUmONTETj8m134+5+nnBIHDfYFV0Z+OLj9FLinng7v8AteePk6wdTFDg==
