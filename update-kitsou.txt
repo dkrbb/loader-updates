@@ -1,0 +1,7 @@
+version=1.0
+sha256=db1cbbe47662528c9d064169d1da854ea0e75554fe41a8a782d5e9e89e7226cc
+file=https://github.com/dkrbb/loader-updates/releases/download/v1/Kitsou.zip
+size=100758736
+keep=route.json,sadida_profile.json,offset_log.json,debug/
+blocked=
+sig=JgtscAOwX1SN7z9zOL36ZjEE3sDr62dIcdC8A2nH4LYXtT4XtOuYaXLt9XvHyHbIOmqmS8LJSwU8OXYHe+IVrOsEVbqGKnfYi0ISfyQyD7xHYh0Z92e76SUvKXI+S6u7Oh6sCJNgsnPxl21r3QGQIjaXQVJSn4/n3/XiAz7N3II/PG3+jr+lelEIPNkJCbvUS0+D04i9ENWmuO+yK8DPCd18M5hQixG3SqY6ZQkBbySvTIGjXHPHB2wTbUB88Y2DCHfX9RlMVbTnAPiTVeEWYDZQrP3ppedHmg+ciKIfGwKx/9ZY2s9Q1T1sMzshXfMlWetsSljQryWOGiLS+hxZrw==
